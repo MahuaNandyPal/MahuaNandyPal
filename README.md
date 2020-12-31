@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahua nandy pal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahua nandy pal" height="30" width="40" /></a>
-<a href="https://fb.com/mahua nandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mahua nandy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahua nandy pal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mahua nandy pal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahua-nandy-pal-6562726a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahua nandy pal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahua.nandy.3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mahua nandy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuUVbKu3lBW-WhbkgHD_iyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mahua nandy pal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
