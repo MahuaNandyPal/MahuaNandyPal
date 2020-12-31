@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahua-nandy-pal-6562726a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahua nandy pal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mahua.nandy.3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mahua nandy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahua.nandy.3/" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="mahua nandy" height="30" width="40" /></a>
   
   
   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
