@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
 
- You can find me on [![LinkedIn][1.2]][1], or on [![gmail][3.2]][3].
+ You can find me on [![LinkedIn][1.2]][1], or on [![gmail][2.2]][2].
 
 <!-- Icons -->
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/mahua-nandy-pal-6562726a/
-[2]: https://mailto:mahua.nandy@gmail.com
+[2]: https://mailto:mahua.nandy@gmail.com/
 
 -->
